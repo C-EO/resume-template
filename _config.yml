@@ -53,6 +53,19 @@ resume_social_links:
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://joelglovier.com"
   resume_medium_url:            "https://medium.com/@jglovier"
+  # resume_bluesky_url:           "https://bsky.app/profile/username"
+  # resume_youtube_url:           "https://www.youtube.com/@username"
+  # resume_mastodon_url:          "https://mastodon.social/@username"
+  # resume_threads_url:           "https://www.threads.net/@username"
+  # resume_stackoverflow_url:     "https://stackoverflow.com/users/0000000/username"
+  # resume_wellfound_url:         "https://wellfound.com/u/username"
+  # resume_spotify_url:           "https://open.spotify.com/user/username"
+  # resume_soundcloud_url:        "https://soundcloud.com/username"
+  # resume_tiktok_url:            "https://www.tiktok.com/@username"
+  # resume_pinterest_url:         "https://www.pinterest.com/username/"
+  # resume_snapchat_url:          "https://www.snapchat.com/add/username"
+  # resume_whatsapp_url:          "https://wa.me/15555555555"
+  # resume_vk_url:                "https://vk.com/id000000000"
 resume_print_social_links:      true
 
 # Design settings
